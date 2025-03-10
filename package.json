@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  
+  "homepage": "https://jeeyunnie.github.io/Assignment2/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,6 +14,7 @@
     "vite": "^6.2.0"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "phaser": "^3.88.2"
   }
 }
