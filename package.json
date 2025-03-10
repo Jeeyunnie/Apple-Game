@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   
-  "homepage": "https://jeeyunnie.github.io/Assignment2/",
+  "homepage": "https://jeeyunnie.github.io/AssApple-Game/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
